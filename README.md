@@ -169,6 +169,9 @@ SECCIÓN 10–6 Aplicaciones de la inducción electromagnética
 ![image](https://user-images.githubusercontent.com/105056762/210300224-ac0982a6-19b6-46f5-a7e2-92c0874cde49.png)
 
 # 4. VIDEO
+
+https://youtu.be/1mDugYbeefA
+
 # 5. CONCLUSIONES
 
 -	El método de la corriente en ramas está basado en las leyes del voltaje y de la corriente de Kirchhoff. 
